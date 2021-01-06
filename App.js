@@ -4,7 +4,7 @@ import {Component} from 'react';
 import { StyleSheet, Text, View ,TextInput,TouchableOpacity} from 'react-native';
 import AppHeader from './AppHeader'
 
-export default class App extends React.Component() {
+export default class App extends React.Component {
  constructor(){
    super();
    this.state={
